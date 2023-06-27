@@ -50,7 +50,7 @@ function createMovieCard(movie) {
             </div>
         </div>
         <div class="info">
-            ${overview || "No overview yet..."}
+            ${overview || "Ei tarinaa vielä..."}
         </div>
     </div>
 </div>
